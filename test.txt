@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 hey this is harry
+=======
+hey this is harry
+i would like to make a change here 
+>>>>>>> 0048c1a (Update test.txt)
